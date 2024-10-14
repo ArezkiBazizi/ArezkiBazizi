@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArezkiBazizi
 - 👀 I’m a Computer Science Student
-- 📙 I’m currently learning at Université de Haute Alsace - UHA
+- 📙 I’m currently learning at Université Paris Nanterre
 - 📍 Based in France
