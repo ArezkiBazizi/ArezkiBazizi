@@ -5,7 +5,7 @@
 
 ### 📊 Mes statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ArezkiBazizi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=tokyonight)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ArezkiBazizi&layout=compact&theme=tokyonight)
 
