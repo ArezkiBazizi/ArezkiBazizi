@@ -5,8 +5,9 @@
 
 ### 📊 Mes statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ArezkiBazizi&show_icons=true&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=ArezkiBazizi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ArezkiBazizi&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ArezkiBazizi&layout=compact&theme=tokyonight)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArezkiBazizi&theme=tokyonight)](https://git.io/streak-stats)
+
